@@ -1,9 +1,9 @@
-Package: com.edog813.shitos
+Package: com.mattso.shitos
 Name: ShitOS
 Depends: mobilesubstrate, com.spark.snowboard |  com.anemonetheming.anemone
 Architecture: iphoneos-arm
-Description: The best ios theme ever made
-Maintainer: edog813#9023/Human#1895
-Author: Edog813
+Description: The greatest iOS theme, remastered.
+Maintainer: edog813#9023/Mattso#7817
+Author: Edog813/Mattso
 Section: Themes
-Version: 1.0.3
+Version: 2.0.0
