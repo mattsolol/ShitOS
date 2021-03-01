@@ -1,9 +1,20 @@
+<<<<<<< HEAD
 Package: lol.mattso.ShitOS
+=======
+Package: com.mattso.shitos
+>>>>>>> 227663b27be341f1c8b01612de5007bb61164533
 Name: ShitOS
 Depends: mobilesubstrate, com.spark.snowboard
 Architecture: iphoneos-arm
 Description: The greatest iOS theme, remastered.
+<<<<<<< HEAD
 Maintainer: Mattso
 Author: Mattso/Edog813
 Section: Themes
 Version: 2.0.1
+=======
+Maintainer: edog813#9023/Mattso#7817
+Author: Edog813/Mattso
+Section: Themes
+Version: 2.0.0
+>>>>>>> 227663b27be341f1c8b01612de5007bb61164533
